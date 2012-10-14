@@ -1,0 +1,7 @@
+*.xcodeproj/xcuserdata
+*.xcuserstate
+*.xcodeproj/*
+xcuserdata/
+project.xcworkspace
+*.pbxuser
+.DS_Store
